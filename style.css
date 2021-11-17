@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    background-color: black;
     /* Add a background-color property for example  background-color: black;*/
 
 }
@@ -15,10 +16,13 @@ h1 {
 }
 
 #origami1{
+    background-color:lightcoral;
    /* Add a background-color property for example  background-color:lightcoral;*/ 
 }
 
 #origami2{
+    background-color:lightcoral;
+    
  /* Add a background-color property for example  background-color:lightcoral;*/ 
 }
 
